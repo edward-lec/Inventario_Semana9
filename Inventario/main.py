@@ -1,7 +1,3 @@
-# Importación de las clases necesarias desde los módulos del proyecto
-from modelos.producto import Producto
-from servicios.inventario import Inventario
-
 
 # Importación de las clases necesarias desde los módulos del proyecto
 from modelos.producto import Producto
