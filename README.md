@@ -1,12 +1,9 @@
 # Informe del Programa de Gestión de Inventario
-
 ## Introducción
 
 El presente informe describe el desarrollo y funcionamiento de un programa de gestión de inventario implementado en el lenguaje de programación Python. El sistema fue diseñado con el objetivo de permitir la administración básica de productos, incluyendo el registro, actualización, búsqueda y visualización de los mismos, a través de una interfaz de usuario en consola.
 
 Para su desarrollo se aplicaron principios de Programación Orientada a Objetos (POO) y una organización modular del código, separando claramente las responsabilidades en distintos archivos y carpetas. Esta estructura mejora la legibilidad del programa, facilita su mantenimiento y permite una correcta escalabilidad del sistema.
-
----
 
 ## Desarrollo
 
@@ -39,7 +36,6 @@ En este módulo se implementa la validación de entradas del usuario, controland
 
 Durante el desarrollo se realizaron pruebas y correcciones para garantizar que el sistema funcione correctamente en su totalidad, verificando cada una de las opciones del menú.
 
----
 
 ## Conclusión
 
